@@ -1,7 +1,7 @@
 '''Faça um mini-sistema que utiliza Interactive Help do Python. O usuário vai digitar o comando e o manual vai aparecer.
 Quando o usuário digitar a palavra 'fim', o programa se encerrará.'''
 
-from time import  sleep
+from time import sleep
 #Lista de cores iniciando na posição 0 até a 4.
 cores = ('\033[m',            # 0 - sem cores
          '\033[1;100;97m',    # 1 - fundo cinza, letra branca

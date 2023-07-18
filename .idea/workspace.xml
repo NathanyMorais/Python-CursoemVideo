@@ -5,124 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75e9d035-9a9b-44f6-a1e4-da0b5c27b689" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python - Curso em Vídeo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/Treino00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex000 - Hello World.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex001 - Apresentação.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex002 - Entrada e Saída de dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex004 - Dissecando uma Variável-Objeto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex005 - Sucessor e Antecessor de um numero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex006 - Dobro, Triplo e Raiz Quadrada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex007 - Média Aritmética.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex008 - Conversor de Medidas (operadores aritmeticos).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex009 - Tabuada v1.0 (operadores aritmeticos).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex010 - Conversao pra dollar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex011 - Analise e pintura da parede (operadores aritmeticos).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex012 - Calculando descontos (operadores aritmeticos).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex013 - Reajuste salarial (operadores aritmeticos).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex014 - Conversor de Temperatura (operadores aritmeticos).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex015 - Aluguel de carros (operadores aritmeticos).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex016 - Quebrando-Truncando um número (Biblioteca).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex017 - Catetos e Hipotenusa (Biblioteca).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex018 - Seno, Cosseno e Tangente (Biblioteca).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex019 - Sorteando um item da lista (Biblioteca).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex020 - Sorteando a ordem de apresentação (Biblioteca).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex021 - Tocando um MP3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex021.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex022 - Analise e manipulaçao de Textos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex023 - Separando dígitos de um numero (uni,dezena,centena..).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex024 - Verificando as primeiras letras do texto (fatiamento).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex025 - Procurando uma string dentro de outra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex026 - Analisando Frases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex027 - Analisando nomes completos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex028 - Jogo da Adivinhação (if-else).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex029 - Controle de velocidade (if-else).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex030 - É par ou impar (if-else).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex031 - Preço da passagem (if-else).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex032 - Ano Bissexto (if-else).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex033 - Comparando números (if-else).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex034 - Aumento de Salario (if-else).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex035 - Formação de Triangulo (if-else).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex036 - Aprovando Empréstimo (if-else).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex037 - Conversor bases numericas (if-elif).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex038 - Comparando números (if-elif).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex039 - Alistamento militar (if-elif).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex040 - Boletim Escolar (if-elif).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex041 - Classificação de Atletas (if-elif).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex042 - Análise e Tipos de Triangulos (if-elif).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex043 - Analise IMC (if-elif).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex044 - Condições de pagamento (if-elif).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex045 - JoKenPo (if-elif).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex046 - Contagem Regressiva (For) .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex047 - Contagem de Pares em intervalo de 1 a 50 (For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex048 - Soma ímpares múltiplos de 3 (For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex049 - Tabuada v2.0 (For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex050 - Soma dos Pares (For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex051 - Progressão Aritmetica (For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex052 - Numeros Primos (For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex053 - Palíndromo (Fatiamento ou For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex054 - Analise de grupo da maioridade (For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex055 - Maior e menor da sequencia (For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex056 - Cadastro e analise de dados (For).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex057 - Validação de dados com while (sexo M ou F).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex058 - Jogo da Adivinhaçao (while).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex059 - criando Menu de Opções (while).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex060 - Calculando Fatorial (while).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex061 - Progressao Aritmetica (while).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex062 - Super Progressao Aritmetica (while).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex063 - Sequencia de Fibonacci (while).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex064 - Varios números com flag (while).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex065 - media, maior e menor (while).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex066 - Varios números com flag (break).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex067 - Tabuada v3.0 (while e for).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex068 - Jogo Par ou Impar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex069 - Cadastro e relatorio de dados de pessoas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex070 - Cadastro e relatorio de produto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex071 - Caixa Eletronico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex072 - Números por extenso (Tupla).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex073 - Tuplas com Times de Futebol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex074 - Maior e Menor de numeros aleatorios (Tupla).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex075 - Análise de dados em Tupla .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex076 - Lista de preços com Tupla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex077 - Contando Vogais em Tupla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex078 - Maior e Menor em qual posição(Listas).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex079 - Valores únicos na Lista(não vale nº igual).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex080 - Lista em Ordem (sem usar .sort()).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex081 - Analisando os dados de uma Lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex082 - Distribuindo valores em várias Listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex083 - Validando expressões matemáticas (Listas).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex084 - Lista composta e análise de dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex085 - Lista Composta com pares e ímpares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex086 - Matriz em Python(Listas Compostas).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex087 - Mais sobre Matriz em Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex088 - Palpites para a Mega Sena(Lista Composta).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex089 - Boletim com Listas Compostas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex090 - Dicionário em Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex091 - Jogo de Dados (Dicionário).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex092 - Cadastro de Trabalhador(Dicionario).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex093 - Cadastro de Jogador de Futebol(Dicionario).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex094 - Unindo dicionarios e listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex095 - Aprimorando os Dicionários do ex93.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex096 - Função que calcula área.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex097 - Função que faz print personalizado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex098 - Função que faz contagem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex099 - Função que descobre o maior valor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex100 - Funções para sortear e somar par .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex101 - Função para votação.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex102 - Função para Fatorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex103 - Função para ficha de jogador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex104 - Validando entrada de dados (Função).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex105 - Analisando e gerando Dicionários (Função).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex106 - Interactive helping system in Python (Funçao).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Teste01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venc/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venc/Scripts/wheel.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex107 - Exercitando Módulos em Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex108 - Formatando as moedas do desafio anterior (Modulo).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex109 - Formatando as moedas do desafio anterior(Modulo).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex110 - Reduzindo o programa com analise de dados em Modulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex111 - Transformando os modulos em Pacotes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex112 - Validando entrada de dados monetarios (Modulos e Pacotes).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex113 - Tratamento de erro na entrada de dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex114 - Verificando acessibilidade de site com tratamento de erros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex115/biblioteca115/Interface/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex115/biblioteca115/arquivodecadastro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex115/sistema_principal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex115a - Criando Menu completo com validação de dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex115b - Manipulando Arquivos com Python(e tratamento de erros.).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/ex115c - Finalizando o projeto ex115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/modulo_ex107/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/modulo_ex108/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/modulo_ex109/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/modulo_ex110/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/pacote_ex111/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/pacote_ex111/modulo_dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmExercicios/pacote_ex111/modulo_moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/Aula23_TratamentoDeErroseExceções" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/Aula23a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/MODULOS e PACOTES/Aula22_MódulosePacotes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/MODULOS e PACOTES/Aula22a_modulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/MODULOS e PACOTES/Aula22a_pacotes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/MODULOS e PACOTES/modulo_aula22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/MODULOS e PACOTES/pacote_aula22/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/MODULOS e PACOTES/pacote_aula22/modulo_datas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/MODULOS e PACOTES/pacote_aula22/modulo_numeros/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/MODULOS e PACOTES/pacote_aula22/modulo_strings/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmExercicios/ex104 - Validando entrada de dados (Função).py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmExercicios/ex104 - Validando entrada de dados (Função).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmExercicios/ex106 - Interactive helping system in Python (Funçao).py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmExercicios/ex106 - Interactive helping system in Python (Funçao).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste01.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,18 +61,30 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QQdLKkuJtUFpyjG6xajWPfDmWF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/Python - Curso em Vídeo/PyCharmExercicios/modulo_ex110&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.ex106 - Interactive helping system in Python (Funçao)">
-    <configuration name="ex102 - Função para Fatorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\Python - Curso em Vídeo\PyCharmExercicios\modulo_ex110" />
+      <recent name="C:\Users\USER\Desktop\Python - Curso em Vídeo\PyCharmExercicios\modulo_ex109" />
+      <recent name="C:\Users\USER\Desktop\Python - Curso em Vídeo\PyCharmExercicios\modulo_ex108" />
+      <recent name="C:\Users\USER\Desktop\Python - Curso em Vídeo\PythonTeste\MODULOS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sistema_principal">
+    <configuration name="ex092 - Cadastro de Trabalhador(Dicionario)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python - Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\Python - Curso em Vídeo\PyCharmExercícios\ex102 - Função para Fatorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyCharmExercicios/ex092 - Cadastro de Trabalhador(Dicionario).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex103 - Função para ficha de jogador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex093 - Cadastro de Jogador de Futebol(Dicionario)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python - Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyCharmExercícios/ex103 - Função para ficha de jogador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyCharmExercicios/ex093 - Cadastro de Jogador de Futebol(Dicionario).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex104 - Validando entrada de dados (Função)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex114 - Verificando acessibilidade de site com tratamento de erros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python - Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyCharmExercícios/ex104 - Validando entrada de dados (Função).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyCharmExercicios/ex114 - Verificando acessibilidade de site com tratamento de erros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex105 - Analisando e gerando Dicionários (Função)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex115a - Criando Menu completo com validação de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python - Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyCharmExercícios/ex105 - Analisando e gerando Dicionários (Função).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\Python - Curso em Vídeo\PyCharmExercicios\ex115a - Criando Menu completo com validação de dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex106 - Interactive helping system in Python (Funçao)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sistema_principal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python - Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharmExercicios/ex115" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyCharmExercícios/ex106 - Interactive helping system in Python (Funçao).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyCharmExercicios/ex115/sistema_principal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex106 - Interactive helping system in Python (Funçao)" />
-        <item itemvalue="Python.ex105 - Analisando e gerando Dicionários (Função)" />
-        <item itemvalue="Python.ex104 - Validando entrada de dados (Função)" />
-        <item itemvalue="Python.ex103 - Função para ficha de jogador" />
-        <item itemvalue="Python.ex102 - Função para Fatorial" />
+        <item itemvalue="Python.sistema_principal" />
+        <item itemvalue="Python.ex115a - Criando Menu completo com validação de dados e tratamento de erros" />
+        <item itemvalue="Python.ex093 - Cadastro de Jogador de Futebol(Dicionario)" />
+        <item itemvalue="Python.ex092 - Cadastro de Trabalhador(Dicionario)" />
+        <item itemvalue="Python.ex114 - Verificando acessibilidade de site com tratamento de erros" />
       </list>
     </recent_temporary>
   </component>
@@ -280,6 +209,67 @@
       <updated>1685289681496</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

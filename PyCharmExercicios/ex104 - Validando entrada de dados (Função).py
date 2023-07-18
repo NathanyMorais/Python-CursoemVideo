@@ -2,7 +2,7 @@
  valor numérico.'''
 def leiaInt(msg): #função 'leiaInt' recebe uma mensagem como parâmetro
     ok = False #variável 'ok' tem como padrão o valor - falso
-    número = 0 #variável 'valor' inicia em zero
+    número = 0 #variável 'numero' inicia em zero
     while True:
         n = str(input(msg)) #variável 'n' vai receber o valor que o usuário digitar em forma de string
         if n.isnumeric(): #se o usuario digitar apenas números na entrada
